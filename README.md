@@ -19,10 +19,3 @@ Dieses Repository ist analog zur Kursstruktur von Cisco aufgebaut. Jedes Modul b
 - [ ] Einführung in die Cybersicherheit: Kurs-Abschlussprüfung
 
 ---
-
-## 📑 Methodik (CyberDans-Lab)
-
-Entsprechend der zentralen Labor-Philosophie meines Hauptprofils wird das Wissen hier wie folgt aufbereitet:
-1. **Theorie:** Definition von Angriffsvektoren und Sicherheitskonzepten.
-2. **Implementierung:** Dokumentation von Best Practices und Schutzmaßnahmen.
-3. **Analyse:** Bewertung realer Bedrohungsszenarien.
