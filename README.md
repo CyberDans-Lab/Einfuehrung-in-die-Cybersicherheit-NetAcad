@@ -7,7 +7,7 @@
 Dieses Repository ist analog zur Kursstruktur von Cisco aufgebaut. Jedes Modul besitzt einen eigenen Unterordner mit einem dedizierten `README.md` für detaillierte Notizen und Zusammenfassungen.
 
 ### 📚 Die Kernmodule
-- [ ] [Modul 1: Einführung in die Cybersicherheit](./modul-1/README.md)
+- [ ] [Modul 1: Einführung in die Cybersicherheit](./Modul1:Einfuerung_in_die_Cybersicherheit/)
 - [ ] [Modul 2: Angriffe, Konzepte und Techniken](./modul-2/README.md)
 - [ ] [Modul 3: Schützen Ihrer Daten und Privatsphäre](./modul-3/README.md)
 - [ ] [Modul 4: Schutz des Unternehmens](./modul-4/README.md)
